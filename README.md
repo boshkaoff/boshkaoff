@@ -32,7 +32,7 @@ I'm bshka_, a C++ developer with experience in building server-side solutions an
 ## Projects
 
 ### AbyssLeague
-A project for abyss in Genshin Impact, featuring server-side and client-side implementations with advanced statistics and security systems.
+A project for PVP in gacha games, featuring server-side and client-side implementations with advanced statistics and security systems.
 
 ### [FileManager](https://github.com/boshkaoff/File-Manager)
 Just a file manager nothing intresting
