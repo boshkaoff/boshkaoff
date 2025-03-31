@@ -34,6 +34,9 @@ I'm bshka_, a C++ developer with experience in building server-side solutions an
 ### AbyssLeague
 A project for PVP in gacha games, featuring server-side and client-side implementations with advanced statistics and security systems.
 
+### DraftEA
+A commercial football project dedicated to drafting, managing teams, and analyzing player performance. It integrates real-time data analytics and forecasting models to assist stakeholders in making informed decisions.
+
 ### [FileManager](https://github.com/boshkaoff/File-Manager)
 Just a file manager nothing intresting
 
